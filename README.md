@@ -6,7 +6,7 @@
 4. Sequelize ORM
 
 
-Running the Project
-1. Create .env file
-2. Run npm i command
-3. Run npm start command
+<h1>Running the Project</h1>
+&ensp; 1. Create .env file <br />
+&ensp; 2. Run npm i command <br />
+&ensp; 3. Run npm start command <br />
